@@ -1,0 +1,7 @@
+# Ignore node_modules if you install dependencies
+node_modules/
+
+# images.json can be regenerated, but you may want to commit it
+# Uncomment the line below if you don't want to track it:
+# images.json
+

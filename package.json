@@ -1,0 +1,11 @@
+{
+  "name": "vision-board",
+  "version": "1.0.0",
+  "description": "Simple vision board static web app",
+  "scripts": {
+    "generate": "node generate-images.js"
+  },
+  "keywords": ["vision-board", "static", "github-pages"],
+  "author": "",
+  "license": "MIT"
+}
